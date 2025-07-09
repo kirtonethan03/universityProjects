@@ -1,0 +1,58 @@
+{
+  "games": [
+    {
+      "GameID": "1",
+      "Creator": "Sledgehammer Games, Treyarch, Infinity Ward, Beenox, Raven Software, High Moon Studios, Demonware",
+      "Price": "0",
+      "Title": "Call of Duty: Modern Warfare III\r\n",
+      "Description": "Welcome to Call of Duty HQ, the home of Call of Duty: Modern Warfare III, Call of Duty: Modern Warfare II and Warzone.\r\n",
+      "ImageCode": "MW3.png",
+      "ImageAlt": "An image of Modern Warfare III"
+    },
+    {
+      "GameID": "2",
+      "Creator": "Valve",
+      "Price": "0",
+      "Title": "Counter-Strike 2\r\n",
+      "Description": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.\r\n",
+      "ImageCode": "CS2.png",
+      "ImageAlt": "An image of Counter-Strike 2"
+    },
+    {
+      "GameID": "3",
+      "Creator": "Zeekers",
+      "Price": "0",
+      "Title": "Lethal Company",
+      "Description": "A co-op horror about scavenging at abandoned moons to sell scrap to the Company.\r\n",
+      "ImageCode": "Lethal.png",
+      "ImageAlt": "An image of Lethal Company"
+    },
+    {
+      "GameID": "4",
+      "Creator": "Larian Studios",
+      "Price": "0",
+      "Title": "Baldur's Gate 3",
+      "Description": "Baldur's Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons & Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.\r\n",
+      "ImageCode": "Baldurs.png",
+      "ImageAlt": "An image of Baldur's Gate 3"
+    },
+    {
+      "GameID": "5",
+      "Creator": "Ubisoft",
+      "Price": "0",
+      "Title": "Tom Clancy's Rainbow Six siege",
+      "Description": "'Tom Clancy's Rainbow Six Siege is an elite, tactical team-based shooter where superior planning and execution triumph.\r\n",
+      "ImageCode": "Rainbow.png",
+      "ImageAlt": "An image of Rainbow Six siege"
+    },
+    {
+      "GameID": "6",
+      "Creator": "Psyonix LLC",
+      "Price": "0",
+      "Title": "Rocket League",
+      "Description": "Rocket League is a high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition. Rocket League includes casual and competitive Online Matches, a fully-featured offline Season Mode.\r\n",
+      "ImageCode": "RL.png",
+      "ImageAlt": "An image of Rocket League"
+    }
+  ]
+}
