@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿///Authors: Tom & Ethan
+using System;
 using System.Windows.Forms;
 
-namespace FishyForms
+
+namespace ImageManipulatorView
 {
     internal static class Program
     {
@@ -16,7 +15,8 @@ namespace FishyForms
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Fishyform());
+            // run the view for user interaction 
+            Application.Run(new GalleryView());
         }
     }
 }
