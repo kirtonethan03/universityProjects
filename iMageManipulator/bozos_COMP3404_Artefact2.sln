@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageManipulatorController", "ImageManipulatorController\ImageManipulatorController.csproj", "{621A5252-1D56-4F5F-B3FA-2AD404BE7094}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageManipulatorModel", "ImageManipulatorModel\ImageManipulatorModel.csproj", "{476B0B60-0D25-4B02-BA3C-6924A497C369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageManipulatorView", "ImageManipulatorView\ImageManipulatorView.csproj", "{2F21DA13-4A6A-4C19-BBD1-D43758963ED0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageManuipulatorUnitTests", "ImageManuipulatorUnitTests\ImageManuipulatorUnitTests.csproj", "{FFA44A98-9778-4F61-851D-F097B1604A0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{621A5252-1D56-4F5F-B3FA-2AD404BE7094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{621A5252-1D56-4F5F-B3FA-2AD404BE7094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{621A5252-1D56-4F5F-B3FA-2AD404BE7094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{621A5252-1D56-4F5F-B3FA-2AD404BE7094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{476B0B60-0D25-4B02-BA3C-6924A497C369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{476B0B60-0D25-4B02-BA3C-6924A497C369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{476B0B60-0D25-4B02-BA3C-6924A497C369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{476B0B60-0D25-4B02-BA3C-6924A497C369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F21DA13-4A6A-4C19-BBD1-D43758963ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F21DA13-4A6A-4C19-BBD1-D43758963ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F21DA13-4A6A-4C19-BBD1-D43758963ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F21DA13-4A6A-4C19-BBD1-D43758963ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA44A98-9778-4F61-851D-F097B1604A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA44A98-9778-4F61-851D-F097B1604A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA44A98-9778-4F61-851D-F097B1604A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA44A98-9778-4F61-851D-F097B1604A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F1AEC36-5A64-4E64-94BB-9E702A6C3675}
+	EndGlobalSection
+EndGlobal
